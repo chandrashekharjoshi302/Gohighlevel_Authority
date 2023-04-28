@@ -67,15 +67,14 @@
 - Product Listing Page 
 - Single Product Description Page
 - Cart Page
-- Login Page
-- Registration Page
+
 
 
 <br />
 
 
 ## 🚀 Features
-- Login and Registration User Account
+
 - Single Product Filtering and Sorting works together 
 - Cart Add and Remove Items
 - favourites Add and Remove Items 
